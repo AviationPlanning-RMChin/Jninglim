@@ -12,5 +12,3 @@ Live at **https://aviationplanning-rmchin.github.io/Jninglim/**.
 - `contact.vcf`: the "Save contact" vCard.
 
 Static HTML/CSS/JS, so there's no build step. Contact details live in `index.html` and `contact.vcf`.
-
-To publish: **Settings → Pages → Deploy from a branch → `main` / root**.

@@ -1,6 +1,6 @@
 # Joo Ning Lim · Aviation Planning at CHIN
 
-Digital business card for Joo Ning Lim, Financial Planner on the Aviation Planning team at R.M. Chin & Associates.
+Digital business card for Joo Ning Lim, Project Manager (Aviation Finance & Capital Planning) on the Aviation Planning team at R.M. Chin & Associates.
 Live at **https://aviationplanning-rmchin.github.io/Jninglim/**.
 
 <p align="center">
